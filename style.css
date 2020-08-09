@@ -1,0 +1,68 @@
+body{
+	background-image: url("https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+	background-size: cover;
+	display: flex;
+	flex-direction: row;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}   
+
+.container{
+	width: 400px;
+	height: 400px;
+	margin-top: 100px;
+	border: 1px solid black;
+	justify-content: center;
+	align-items: center;
+	background-image: url("https://img.freepik.com/free-vector/abstract-colorful-rounded-disco-lamp-background_43605-2324.jpg?size=626&ext=jpg");
+	border-radius: 30px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.beatBox{
+	
+	width: 40px;
+	height: 40px;
+	margin:10px;
+	padding: 25px;
+	border: 2px solid white;  
+	border-radius: 5px;
+	display: inline-flex;
+	align-items: center;
+}
+.beat{
+	padding-left: 15px;
+}
+#one{
+	background-color: #191970;
+}
+#two{
+	background-color: #BC8F8F;
+}
+#three{
+	background-color: #483d8b ;
+}
+#four{
+	background-color: #E9967A;
+}
+#five{
+	background-color: #8b008b;
+}
+#six{
+	background-color: #dc143c;
+}
+#seven{
+	background-color: #663399;
+}
+#eight{
+	background-color: #5F9EA0;
+}
+#nine{
+	background-color: #DB7093;
+}
