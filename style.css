@@ -15,7 +15,7 @@ body{
 	border: 1px solid black;
 	justify-content: center;
 	align-items: center;
-	background-image: url("https://img.freepik.com/free-vector/abstract-colorful-rounded-disco-lamp-background_43605-2324.jpg?size=626&ext=jpg");
+	background-color: #483d8b;
 	border-radius: 30px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -26,43 +26,20 @@ body{
 	flex-wrap: wrap;
 }
 .beatBox{
-	
-	width: 40px;
-	height: 40px;
-	margin:10px;
-	padding: 25px;
-	border: 2px solid white;  
-	border-radius: 5px;
 	display: inline-flex;
 	align-items: center;
 }
-.beat{
-	padding-left: 15px;
+button{
+	border-radius: 10px;
+	margin: 10px;
+	width: 70px;
+	height: 70px;
+	background-color: transparent;
+}	
+
+#one, #three, #six, #eight, #nine, #eleven, #fourteen, #sixteen{
+	border: 2px solid #ff0099;
 }
-#one{
-	background-color: #191970;
-}
-#two{
-	background-color: #BC8F8F;
-}
-#three{
-	background-color: #483d8b ;
-}
-#four{
-	background-color: #E9967A;
-}
-#five{
-	background-color: #8b008b;
-}
-#six{
-	background-color: #dc143c;
-}
-#seven{
-	background-color: #663399;
-}
-#eight{
-	background-color: #5F9EA0;
-}
-#nine{
-	background-color: #DB7093;
+#two, #four, #five, #seven, #ten, #twelve, #thirteen, #fifteen{
+	border: 2px solid #00ffff;
 }
