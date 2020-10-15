@@ -1,5 +1,13 @@
-Virtual Piano 
-html, css and js used
-Try it at this link:- 
+###Virtual Piano 
 
-virtual-piano-ee963a.netlify.app
+---
+##Languages Used: 
+
+-HTML
+-CSS
+-Javascript
+---
+
+##Try it at this link:- 
+
+https://virtual-piano-ee963a.netlify.app/
